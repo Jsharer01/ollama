@@ -6,7 +6,7 @@
 
 # Ollama
 
-Start building with open models. Access the latest releases locally or in the cloud with complete privacy.
+Start building with open models. Access the latest releases locally or in the cloud with complete privacy. ©️ 2026 Jeremy Sharer Software All Rights Reserved. No Reproduction Authorized 
 
 ## Download
 
